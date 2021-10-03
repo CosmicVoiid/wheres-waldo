@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/CosmicVoiid/wheres-waldo/static/css/main.022aa906.chunk.css",
-    "main.js": "/CosmicVoiid/wheres-waldo/static/js/main.a9fb1ba8.chunk.js",
-    "main.js.map": "/CosmicVoiid/wheres-waldo/static/js/main.a9fb1ba8.chunk.js.map",
-    "runtime-main.js": "/CosmicVoiid/wheres-waldo/static/js/runtime-main.6694fb22.js",
-    "runtime-main.js.map": "/CosmicVoiid/wheres-waldo/static/js/runtime-main.6694fb22.js.map",
-    "static/js/2.1b1205a9.chunk.js": "/CosmicVoiid/wheres-waldo/static/js/2.1b1205a9.chunk.js",
-    "static/js/2.1b1205a9.chunk.js.map": "/CosmicVoiid/wheres-waldo/static/js/2.1b1205a9.chunk.js.map",
-    "index.html": "/CosmicVoiid/wheres-waldo/index.html",
-    "static/css/main.022aa906.chunk.css.map": "/CosmicVoiid/wheres-waldo/static/css/main.022aa906.chunk.css.map",
-    "static/js/2.1b1205a9.chunk.js.LICENSE.txt": "/CosmicVoiid/wheres-waldo/static/js/2.1b1205a9.chunk.js.LICENSE.txt",
-    "static/media/odlaw_portrait.c90e6d7c.jpeg": "/CosmicVoiid/wheres-waldo/static/media/odlaw_portrait.c90e6d7c.jpeg",
-    "static/media/waldo.8d142447.jpg": "/CosmicVoiid/wheres-waldo/static/media/waldo.8d142447.jpg",
-    "static/media/waldo_portrait.671e7973.jpeg": "/CosmicVoiid/wheres-waldo/static/media/waldo_portrait.671e7973.jpeg"
+    "main.css": "/wheres-waldo/static/css/main.022aa906.chunk.css",
+    "main.js": "/wheres-waldo/static/js/main.a9fb1ba8.chunk.js",
+    "main.js.map": "/wheres-waldo/static/js/main.a9fb1ba8.chunk.js.map",
+    "runtime-main.js": "/wheres-waldo/static/js/runtime-main.6322256e.js",
+    "runtime-main.js.map": "/wheres-waldo/static/js/runtime-main.6322256e.js.map",
+    "static/js/2.55a39f7d.chunk.js": "/wheres-waldo/static/js/2.55a39f7d.chunk.js",
+    "static/js/2.55a39f7d.chunk.js.map": "/wheres-waldo/static/js/2.55a39f7d.chunk.js.map",
+    "index.html": "/wheres-waldo/index.html",
+    "static/css/main.022aa906.chunk.css.map": "/wheres-waldo/static/css/main.022aa906.chunk.css.map",
+    "static/js/2.55a39f7d.chunk.js.LICENSE.txt": "/wheres-waldo/static/js/2.55a39f7d.chunk.js.LICENSE.txt",
+    "static/media/odlaw_portrait.c90e6d7c.jpeg": "/wheres-waldo/static/media/odlaw_portrait.c90e6d7c.jpeg",
+    "static/media/waldo.8d142447.jpg": "/wheres-waldo/static/media/waldo.8d142447.jpg",
+    "static/media/waldo_portrait.671e7973.jpeg": "/wheres-waldo/static/media/waldo_portrait.671e7973.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6694fb22.js",
-    "static/js/2.1b1205a9.chunk.js",
+    "static/js/runtime-main.6322256e.js",
+    "static/js/2.55a39f7d.chunk.js",
     "static/css/main.022aa906.chunk.css",
     "static/js/main.a9fb1ba8.chunk.js"
   ]
