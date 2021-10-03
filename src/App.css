@@ -1,0 +1,41 @@
+.dropdown {
+	outline: 1px red solid;
+	height: auto;
+	width: 50px;
+}
+
+.portrait {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.portrait:hover {
+	cursor: pointer;
+}
+
+.header-img {
+	max-width: 10%;
+}
+
+header {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+.img-container {
+	display: flex;
+	justify-content: center;
+}
+
+.timer {
+	position: absolute;
+	top: 0;
+	left: 5%;
+}
+
+.message {
+	position: absolute;
+	top: 20%;
+	left: 10%;
+}
